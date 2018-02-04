@@ -29,4 +29,5 @@ Complejidad O(n^2)
 
 ## 3. ¿Cuál es la mejor complejidad de tiempo de bubbleSort?
 ```
-O(1)
+Complejidad O(1)
+```
